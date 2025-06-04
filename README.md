@@ -1,6 +1,7 @@
 # 2025
 Collection of materials from the 2025 workshops
 
+- [Python Without the pain: write code with LLMs](https://github.com/dataharvest-EIJC/2025-python-and-LLMs)
 - [AI cookbook 🥧: 6 recipes for the modern journalist](https://github.com/dataharvest-EIJC/2025-ai-recipes)
 - [Start looking: finding patterns in data with your eyes 👀](https://github.com/dataharvest-EIJC/2025-mapping-and-visualizing)
 - [Protests, TikTok, and more 🎥: analyzing images and videos with AI](https://github.com/dataharvest-EIJC/2025-ai-images-video)
