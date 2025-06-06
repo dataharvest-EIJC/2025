@@ -1,6 +1,8 @@
 # 2025
 Collection of materials from the 2025 workshops
 
+- [RAG: Leveraging AI for document research](https://static.sched.com/hosted_files/dataharvest25/31/DataharvestRAGs_2025.pdf)
+- [ Spreadsheets with superpowers: LLMs for data extraction and classification](https://docs.google.com/presentation/d/18PgqZFaVghJ5A7YnGP04TJK78pTuYqghPDgpkSQgbAA)
 - [Python Without the pain: write code with LLMs](https://github.com/dataharvest-EIJC/2025-python-and-LLMs)
 - [AI cookbook 🥧: 6 recipes for the modern journalist](https://github.com/dataharvest-EIJC/2025-ai-recipes)
 - [Start looking: finding patterns in data with your eyes 👀](https://github.com/dataharvest-EIJC/2025-mapping-and-visualizing)
