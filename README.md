@@ -1,6 +1,7 @@
 # 2025
-Collection of materials from the 2025 workshops
+Collection of materials from the [2025 workshops](https://dataharvest25.sched.com/overview/type/Data+skills)
 
+- Spreadsheets with superpowers: LLMs for data extraction and classification: [presentation](https://docs.google.com/presentation/d/18PgqZFaVghJ5A7YnGP04TJK78pTuYqghPDgpkSQgbAA/edit?slide=id.p#slide=id.p), [code](gist.github.com/joelochlann/d8fd444aedeb4b31ab3f564f23ff2a72)
 - [RAG: Leveraging AI for document research](https://static.sched.com/hosted_files/dataharvest25/31/DataharvestRAGs_2025.pdf)
 - [ Spreadsheets with superpowers: LLMs for data extraction and classification](https://docs.google.com/presentation/d/18PgqZFaVghJ5A7YnGP04TJK78pTuYqghPDgpkSQgbAA)
 - [Python Without the pain: write code with LLMs](https://github.com/dataharvest-EIJC/2025-python-and-LLMs)
